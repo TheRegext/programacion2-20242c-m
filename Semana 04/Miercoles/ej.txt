@@ -1,0 +1,2 @@
+Cargar y mostrar 5 fechas contenidas en un vector
+Dada una fecha que se ingresa por teclado, informar si esa fecha existe en el vector de fechas
