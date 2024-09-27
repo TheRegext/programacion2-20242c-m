@@ -1,0 +1,5 @@
+1.A) Buscar y listar el proveedor al que se le compraron más sanitarios.
+
+2.B) Mostrar el nombre material con mas ventas.
+
+3.C) Mostrar el código de obra con mas compras de materiales tipo 3
