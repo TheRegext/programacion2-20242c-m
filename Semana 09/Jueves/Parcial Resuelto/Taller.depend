@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1727728065 source:c:\users\danie\documents\curso ejemplos c\programacion ii\2024 c2 miércoles\taller\archivoservicio.cpp
+	"Fecha.h"
+	"ArchivoServicio.h"
+
+1727724848 c:\users\danie\documents\curso ejemplos c\programacion ii\2024 c2 miércoles\taller\fecha.h
+	<string>
+
+1727727014 c:\users\danie\documents\curso ejemplos c\programacion ii\2024 c2 miércoles\taller\archivoservicio.h
+	<string>
+	"Servicio.h"
+
+1727736298 c:\users\danie\documents\curso ejemplos c\programacion ii\2024 c2 miércoles\taller\servicio.h
+	"Fecha.h"
+
+1727736636 source:c:\users\danie\documents\curso ejemplos c\programacion ii\2024 c2 miércoles\taller\examen.cpp
+	<iostream>
+	"Examen.h"
+	"Servicio.h"
+	"ArchivoServicio.h"
+
+1727724848 c:\users\danie\documents\curso ejemplos c\programacion ii\2024 c2 miércoles\taller\examen.h
+
+1727724848 source:c:\users\danie\documents\curso ejemplos c\programacion ii\2024 c2 miércoles\taller\fecha.cpp
+	"Fecha.h"
+
+1727736883 source:c:\users\danie\documents\curso ejemplos c\programacion ii\2024 c2 miércoles\taller\servicio.cpp
+	<iostream>
+	"Servicio.h"
+
+1727737017 source:c:\users\danie\documents\curso ejemplos c\programacion ii\2024 c2 miércoles\taller\main.cpp
+	<iostream>
+	"Examen.h"
+
+1727728065 source:c:\users\danie\documents\curso ejemplos c\programacion ii\proyecto parcial 1 2024 c2 lunes\proyecto entregado\archivoservicio.cpp
+	"Fecha.h"
+	"ArchivoServicio.h"
+
+1727724848 c:\users\danie\documents\curso ejemplos c\programacion ii\proyecto parcial 1 2024 c2 lunes\proyecto entregado\fecha.h
+	<string>
+
+1727727014 c:\users\danie\documents\curso ejemplos c\programacion ii\proyecto parcial 1 2024 c2 lunes\proyecto entregado\archivoservicio.h
+	<string>
+	"Servicio.h"
+
+1727739007 c:\users\danie\documents\curso ejemplos c\programacion ii\proyecto parcial 1 2024 c2 lunes\proyecto entregado\servicio.h
+	"Fecha.h"
+
+1727724848 source:c:\users\danie\documents\curso ejemplos c\programacion ii\proyecto parcial 1 2024 c2 lunes\proyecto entregado\fecha.cpp
+	"Fecha.h"
+
+1727958347 source:c:\users\danie\documents\curso ejemplos c\programacion ii\proyecto parcial 1 2024 c2 lunes\proyecto entregado\main.cpp
+	<iostream>
+	"Examen.h"
+
+1727724848 c:\users\danie\documents\curso ejemplos c\programacion ii\proyecto parcial 1 2024 c2 lunes\proyecto entregado\examen.h
+
+1727736883 source:c:\users\danie\documents\curso ejemplos c\programacion ii\proyecto parcial 1 2024 c2 lunes\proyecto entregado\servicio.cpp
+	<iostream>
+	"Servicio.h"
+
+1727958481 source:c:\users\danie\documents\curso ejemplos c\programacion ii\proyecto parcial 1 2024 c2 lunes\proyecto entregado\examen.cpp
+	<iostream>
+	"Examen.h"
+	"Servicio.h"
+	"ArchivoServicio.h"
+
