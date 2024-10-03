@@ -1,0 +1,261 @@
+# depslib dependency file v1.0
+1727953790 source:e:\github\educacion\utn\2024\2c\programacion2-20242c-m\semana 09\jueves\api\httpclient.cpp
+	<iostream>
+	"HttpClient.h"
+
+1727953638 e:\github\educacion\utn\2024\2c\programacion2-20242c-m\semana 09\jueves\api\httpclient.h
+	<string>
+	<curl/curl.h>
+
+1726649800 e:\github\educacion\utn\2024\2c\programacion2-20242c-m\semana 09\jueves\api\curl\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<sys/param.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"options.h"
+	"header.h"
+	"websockets.h"
+	"mprintf.h"
+	"typecheck-gcc.h"
+
+1726649800 e:\github\educacion\utn\2024\2c\programacion2-20242c-m\semana 09\jueves\api\curl\include\curl\curlver.h
+
+1726649800 e:\github\educacion\utn\2024\2c\programacion2-20242c-m\semana 09\jueves\api\curl\include\curl\system.h
+	<ConditionalMacros.h>
+	<inttypes.h>
+	<inttypes.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1726649800 e:\github\educacion\utn\2024\2c\programacion2-20242c-m\semana 09\jueves\api\curl\include\curl\easy.h
+
+1726649800 e:\github\educacion\utn\2024\2c\programacion2-20242c-m\semana 09\jueves\api\curl\include\curl\multi.h
+	"curl.h"
+
+1726649800 e:\github\educacion\utn\2024\2c\programacion2-20242c-m\semana 09\jueves\api\curl\include\curl\urlapi.h
+	"curl.h"
+
+1726649800 e:\github\educacion\utn\2024\2c\programacion2-20242c-m\semana 09\jueves\api\curl\include\curl\options.h
+
+1726649800 e:\github\educacion\utn\2024\2c\programacion2-20242c-m\semana 09\jueves\api\curl\include\curl\header.h
+
+1726649800 e:\github\educacion\utn\2024\2c\programacion2-20242c-m\semana 09\jueves\api\curl\include\curl\websockets.h
+
+1726649800 e:\github\educacion\utn\2024\2c\programacion2-20242c-m\semana 09\jueves\api\curl\include\curl\mprintf.h
+	<stdarg.h>
+	<stdio.h>
+	"curl.h"
+
+1726649800 e:\github\educacion\utn\2024\2c\programacion2-20242c-m\semana 09\jueves\api\curl\include\curl\typecheck-gcc.h
+
+1727966800 source:e:\github\educacion\utn\2024\2c\programacion2-20242c-m\semana 09\jueves\api\main.cpp
+	<iostream>
+	"HttpClient.h"
+	"json.hpp"
+
+1727965315 e:\github\educacion\utn\2024\2c\programacion2-20242c-m\semana 09\jueves\api\json.hpp
+	<algorithm>
+	<cstddef>
+	<functional>
+	<initializer_list>
+	<iosfwd>
+	<iterator>
+	<memory>
+	<string>
+	<utility>
+	<vector>
+	<utility>
+	<algorithm>
+	<array>
+	<forward_list>
+	<iterator>
+	<map>
+	<string>
+	<tuple>
+	<type_traits>
+	<unordered_map>
+	<utility>
+	<valarray>
+	<cstddef>
+	<exception>
+	<numeric>
+	<stdexcept>
+	<string>
+	<vector>
+	<array>
+	<cstddef>
+	<cstdint>
+	<string>
+	<utility>
+	<type_traits>
+	<stdint.h>
+	<stdint.h>
+	<version>
+	<cstdlib>
+	<cassert>
+	<compare>
+	<cstddef>
+	<array>
+	<cstddef>
+	<type_traits>
+	<utility>
+	<limits>
+	<type_traits>
+	<utility>
+	<tuple>
+	<string>
+	<iterator>
+	<cstdint>
+	<map>
+	<memory>
+	<string>
+	<vector>
+	<cstring>
+	<string>
+	<utility>
+	<experimental/filesystem>
+	<filesystem>
+	<algorithm>
+	<iterator>
+	<string>
+	<tuple>
+	<type_traits>
+	<utility>
+	<valarray>
+	<vector>
+	<cstddef>
+	<iterator>
+	<string>
+	<tuple>
+	<utility>
+	<ranges>
+	<cstdint>
+	<tuple>
+	<utility>
+	<cstdint>
+	<cstddef>
+	<functional>
+	<algorithm>
+	<array>
+	<cmath>
+	<cstddef>
+	<cstdint>
+	<cstdio>
+	<cstring>
+	<iterator>
+	<limits>
+	<string>
+	<utility>
+	<vector>
+	<array>
+	<cstddef>
+	<cstring>
+	<iterator>
+	<memory>
+	<numeric>
+	<string>
+	<type_traits>
+	<utility>
+	<cstdio>
+	<istream>
+	<cstddef>
+	<string>
+	<utility>
+	<vector>
+	<array>
+	<clocale>
+	<cstddef>
+	<cstdio>
+	<cstdlib>
+	<initializer_list>
+	<string>
+	<utility>
+	<vector>
+	<cstdint>
+	<utility>
+	<string>
+	<cmath>
+	<cstdint>
+	<functional>
+	<string>
+	<utility>
+	<vector>
+	<cstddef>
+	<limits>
+	<iterator>
+	<type_traits>
+	<cstddef>
+	<iterator>
+	<utility>
+	<type_traits>
+	<algorithm>
+	<cctype>
+	<cerrno>
+	<cstdlib>
+	<iosfwd>
+	<limits>
+	<numeric>
+	<string>
+	<utility>
+	<vector>
+	<initializer_list>
+	<utility>
+	<algorithm>
+	<array>
+	<map>
+	<cmath>
+	<cstdint>
+	<cstring>
+	<limits>
+	<string>
+	<utility>
+	<vector>
+	<algorithm>
+	<cstddef>
+	<iterator>
+	<memory>
+	<string>
+	<vector>
+	<ios>
+	<ostream>
+	<algorithm>
+	<array>
+	<clocale>
+	<cmath>
+	<cstddef>
+	<cstdint>
+	<cstdio>
+	<limits>
+	<string>
+	<iomanip>
+	<type_traits>
+	<utility>
+	<array>
+	<cmath>
+	<cstdint>
+	<cstring>
+	<limits>
+	<type_traits>
+	<functional>
+	<initializer_list>
+	<iterator>
+	<memory>
+	<stdexcept>
+	<type_traits>
+	<utility>
+	<vector>
+	<any>
+	<string_view>
+

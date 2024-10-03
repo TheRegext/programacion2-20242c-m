@@ -1,0 +1,294 @@
+commit 750a655ae4ee8888e8724b0b6cfa7023c2e3dcb9
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-08-24
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-08-24
+
+    Bump package and library versions
+
+commit 296841e7dd0d22f7cb6020419fc94cf3dbe8e426
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-08-24
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-08-24
+
+    Update AUTHORS
+
+commit 8d6b964e9aace887735b5ccd69e18e99287109f3
+Merge: 7791fe5 a3fdb44
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-08-22
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-08-22
+
+    Merge pull request #246 from ngtcp2/add-examples-ref
+    
+    Add examples links
+
+commit a3fdb4415c9403d613a5df5263a3d3d3555e7bff
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-08-22
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-08-22
+
+    Add examples links
+
+commit 7791fe5db9eaa0a31918028b03d4cd543bbf25c1
+Merge: 28b9a79 75e005d
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-08-13
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-08-13
+
+    Merge pull request #245 from ngtcp2/port-ngtcp2-changes
+    
+    Port ngtcp2 changes
+
+commit 75e005d6022f232311a15ba3a3515bf51b605ee1
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-08-12
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-08-13
+
+    nghttp3_balloc: Port ngtcp2 changes
+
+commit a8f39cbbbca6063941774f16f207e4b6e739e11e
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-08-12
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-08-13
+
+    nghttp3_ksl: Port ngtcp2 changes
+
+commit c904f721af39fb042df27a2c41b01a7fa007c1b9
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-08-12
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-08-13
+
+    nghttp3_pq: Port ngtcp2 changes
+
+commit 299ec5dc7639e147d8d6f5571375e51d2019f3a5
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-08-12
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-08-13
+
+    nghttp3_map: Port ngtcp2 changes
+
+commit 28b9a79ad19df3c40f5ffa72ee774fba72bb5a02
+Merge: 9e33cfc 859c28e
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-07-29
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-07-29
+
+    Merge pull request #243 from ngtcp2/remove-idtr-server
+    
+    nghttp3_idtr: Remove server field
+
+commit 859c28e2da42249fb76233369c452b137f71f35a
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-07-29
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-07-29
+
+    nghttp3_idtr: Remove server field
+    
+    Remove server field because it is only used in assertion.
+
+commit 9e33cfca07c9be961cefa6ec50c688108a2ffbdf
+Merge: 74991ca d1cf759
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-07-28
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-07-28
+
+    Merge pull request #242 from ngtcp2/ngtcp2-port
+    
+    Ngtcp2 port
+
+commit d1cf7595da55d9c5dc9572fece90ffcea1d9601b
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-07-28
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-07-28
+
+    nghttp3_range: Port ngtcp2 changes
+
+commit 4af30ba2f2bd3d6b28cbc3b7896f02945605d192
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-07-28
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-07-28
+
+    nghttp3_idtr: Port ngtcp2 changes
+
+commit ff2855d3c7343c0a5ac8ee54947cedefeeca3041
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-07-28
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-07-28
+
+    nghttp3_gaptr: Port ngtcp2 changes
+
+commit daf30ce26af465c8514259ac65a2dc46e7c81ebd
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-07-28
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-07-28
+
+    nghttp3_ksl: Port ngtcp2 changes
+
+commit 74991ca2c111f0d40b2186d218e25b1bddeecad7
+Merge: ca676b5 857c3f5
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-07-24
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-07-24
+
+    Merge pull request #237 from mludha/nghttp3/fix-msvc-linker-warning
+    
+    cmake: Fix linker warning LNK4291 when linking static lib to the final binary
+
+commit 857c3f5539b301e4571970b2b4cec562589418fb
+Author:     Marek Ludha <ludha@eset.sk>
+AuthorDate: 2024-07-15
+Commit:     Marek Ludha <ludha@eset.sk>
+CommitDate: 2024-07-24
+
+    cmake: Fix linker warning LNK4291 when linking static lib to the final binary
+    
+    Apparently some functions (e.g. nghttp3_balloc_clear) create xdata sections in the lib. These are used on 64bit platforms to judge which control flow transitions should be allowed. Normally they are needed only in uncommon cases like longjmp, SEH exceptions or SetThreadContext Windows API calls. These functions don't do anything to warrant it. This flag should just let the compiler do it's thing more efficiently.
+
+commit ca676b508cb171d19808649c888299d587210e8e
+Merge: 7d46259 e39d74d
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-07-22
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-07-22
+
+    Merge pull request #241 from ngtcp2/bump-clang-format
+    
+    Bump clang format
+
+commit e39d74d6f75b1f28a0c232a11e53a23463030d9b
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-07-22
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-07-22
+
+    clang-format
+
+commit e30fab8c256db677af7e4ad07194f4831ad5fee6
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-07-22
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-07-22
+
+    Bump clang-format to 18
+
+commit 7d46259977991196ed0cbc3027a21438af9c5048
+Merge: caf3de4 c998d2d
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-07-22
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-07-22
+
+    Merge pull request #238 from nishantnori/fix-format
+    
+    Fix format in nghttp3_macro.h
+
+commit caf3de4eab6ebc35fcb75abdc24895ba55742bfa
+Merge: 9cfc89d 574b141
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-07-17
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-07-17
+
+    Merge pull request #236 from mludha/nghttp3/msvc-static-crt-fix
+    
+    cmake: Update ENABLE_STATIC_CRT for cmake >= 3.15
+
+commit c998d2df6ea9b619be1dc23e7f659edd4a1db472
+Author:     Nishant Nori <nishantnori@meta.com>
+AuthorDate: 2024-07-16
+Commit:     Nishant Nori <nishantnori@meta.com>
+CommitDate: 2024-07-16
+
+    Fix format in nghttp3_macro.h
+
+commit 574b141846fd986b2b26118716a97bd0769b3870
+Author:     Marek Ludha <ludha@eset.sk>
+AuthorDate: 2024-07-15
+Commit:     Marek Ludha <ludha@eset.sk>
+CommitDate: 2024-07-15
+
+    cmake: Update ENABLE_STATIC_CRT for cmake >= 3.15
+    
+    CMake >= 3.15 doesn't add runtime library selection to compiler flags because of CMP0091 behavior change. There's a new variable for that. Since we require version >= 3.20 there's no need to keep the old behavior.
+
+commit 9cfc89d6899f4925b7d4185f9897cad7ae29850f
+Merge: 5022f74 0ab2272
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-06-27
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-06-27
+
+    Merge pull request #235 from ngtcp2/clusterfuzzlite-disable-dependency-tracking
+    
+    clusterfuzzlite: Disable dependency tracking
+
+commit 0ab2272151450f070e7a166bc3c30634b4687fab
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-06-27
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-06-27
+
+    clusterfuzzlite: Disable dependency tracking
+
+commit 5022f748c06be636c28a7aad6e9fbb295f218c65
+Merge: 7ff534e 3ba3aee
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-06-27
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-06-27
+
+    Merge pull request #234 from ngtcp2/gha-suppress-warnings
+    
+    GHA: Suppress warnings
+
+commit 3ba3aee496e534a4cd5889bac4603fe8e441698d
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-06-27
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-06-27
+
+    GHA: Suppress warnings
+
+commit 7ff534e27362429ae8d34a3331279459ac232d4b
+Merge: 71f1d84 80789c8
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-06-27
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-06-27
+
+    Merge pull request #233 from ngtcp2/disable-dependency-tracking
+    
+    GHA: Disable dependency tracking
+
+commit 80789c8729b4f7b1885e44a651acf0df9356432e
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-06-27
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-06-27
+
+    GHA: Disable dependency tracking
+
+commit 71f1d84821e3e9b9239ccb6aa774059bc0db0665
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-06-13
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-06-13
+
+    Bump package version

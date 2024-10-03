@@ -1,0 +1,762 @@
+commit 8f44147c385fb1ed93a6f39911eeb30279bfd2dd
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-08-27
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-08-27
+
+    Update manual pages
+
+commit 3fde4dc96202c2b8a3874835b484fc332493e897
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-08-27
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-08-27
+
+    Bump package and library versions
+
+commit 4c1cd2d89bfd3e03682b33264faec5f41795b024
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-08-27
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-08-27
+
+    Update AUTHORS
+
+commit 659a1f7fda98bad1285809290591ccb931b0f5ac
+Merge: dd9de0da f2422451
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-08-27
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-08-27
+
+    Merge pull request #2239 from nghttp2/levenshtein-array-size
+    
+    levenshtein: Use size_t
+
+commit f2422451cff1dbf60c3fe49b74bd386c48b14741
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-08-27
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-08-27
+
+    levenshtein: Use size_t
+
+commit dd9de0da0b35babaf01c58dfc7f73e433e1ff714
+Merge: cac4bbb2 d6fa1f40
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-08-27
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-08-27
+
+    Merge pull request #2238 from nghttp2/update-go
+    
+    Update go
+
+commit d6fa1f40c2c33e901750576ffefcc41586becd46
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-08-27
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-08-27
+
+    integration: Refactor and update style
+
+commit f0ff5cc364104ca0fd5275755948712c59352d58
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-08-27
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-08-27
+
+    Bump go to 1.22
+
+commit c5345df4800b61e02de41d611e718928efdbea4a
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-08-27
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-08-27
+
+    Adopt slices.SortFunc
+
+commit cac4bbb2407bd4a71ad5a1086640c8ddc32cac0a
+Merge: f490f5fe af80f6be
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-08-24
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-08-24
+
+    Merge pull request #2237 from nghttp2/bump-libbpf
+    
+    Bump libbpf to v1.4.5
+
+commit af80f6be7ff32e8599b4ee01c740a7dc2eb8bb93
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-08-24
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-08-24
+
+    Bump libbpf to v1.4.5
+
+commit f490f5fea66cf18b87de18f6f44c1be238f57763
+Merge: a9a20e5b 49e16428
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-08-24
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-08-24
+
+    Merge pull request #2236 from nghttp2/bump-ngtcp2
+    
+    Bump ngtcp2 and its dependencies
+
+commit 49e16428e5d42dffed843eae3ef584fa12371a28
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-08-24
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-08-24
+
+    Bump ngtcp2 and its dependencies
+
+commit a9a20e5b733df1a90e7c1b73c20eb90b882cf8a4
+Merge: 04d03815 783e20a9
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-08-13
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-08-13
+
+    Merge pull request #2232 from nghttp2/dependabot/go_modules/github.com/quic-go/quic-go-0.46.0
+    
+    build(deps): bump github.com/quic-go/quic-go from 0.45.2 to 0.46.0
+
+commit 783e20a98422ddabfb58436757a43a15d7c3b49f
+Author:     dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+AuthorDate: 2024-08-13
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-08-13
+
+    build(deps): bump github.com/quic-go/quic-go from 0.45.2 to 0.46.0
+    
+    Bumps [github.com/quic-go/quic-go](https://github.com/quic-go/quic-go) from 0.45.2 to 0.46.0.
+    - [Release notes](https://github.com/quic-go/quic-go/releases)
+    - [Changelog](https://github.com/quic-go/quic-go/blob/master/Changelog.md)
+    - [Commits](https://github.com/quic-go/quic-go/compare/v0.45.2...v0.46.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: github.com/quic-go/quic-go
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 04d03815d4009219faf0ad72c663195ee624dc59
+Merge: d97bc7d8 ba60861e
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-08-13
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-08-13
+
+    Merge pull request #2231 from nghttp2/dependabot/go_modules/golang.org/x/net-0.28.0
+    
+    build(deps): bump golang.org/x/net from 0.27.0 to 0.28.0
+
+commit ba60861ea0cbe011dc0443ca67aa2d0400253c12
+Author:     dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+AuthorDate: 2024-08-12
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-08-12
+
+    build(deps): bump golang.org/x/net from 0.27.0 to 0.28.0
+    
+    Bumps [golang.org/x/net](https://github.com/golang/net) from 0.27.0 to 0.28.0.
+    - [Commits](https://github.com/golang/net/compare/v0.27.0...v0.28.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: golang.org/x/net
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit d97bc7d8745ded136efa6e9e747f2310406893dd
+Merge: e4c54d9c cff7f87d
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-08-06
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-08-06
+
+    Merge pull request #2229 from nghttp2/dependabot/go_modules/github.com/quic-go/quic-go-0.45.2
+    
+    build(deps): bump github.com/quic-go/quic-go from 0.45.1 to 0.45.2
+
+commit cff7f87d46eb9052d23402fb798bd94ea493eddf
+Author:     dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+AuthorDate: 2024-08-05
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-08-05
+
+    build(deps): bump github.com/quic-go/quic-go from 0.45.1 to 0.45.2
+    
+    Bumps [github.com/quic-go/quic-go](https://github.com/quic-go/quic-go) from 0.45.1 to 0.45.2.
+    - [Release notes](https://github.com/quic-go/quic-go/releases)
+    - [Changelog](https://github.com/quic-go/quic-go/blob/master/Changelog.md)
+    - [Commits](https://github.com/quic-go/quic-go/compare/v0.45.1...v0.45.2)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: github.com/quic-go/quic-go
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit e4c54d9c82141d20ed95fa9e4143fd10578bc511
+Merge: e3daa171 949c613e
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-08-05
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-08-05
+
+    Merge pull request #2228 from nghttp2/suppress-old-compiler-error
+    
+    Suppress old compiler error
+
+commit 949c613e362c392eb19a7bcbc3d6d362b5c7b5d4
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-08-03
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-08-03
+
+    Suppress old compiler error
+
+commit e3daa171b6004774c4a4e5cfbad401b0b54bfdb9
+Merge: d9e846a2 80b5d9a1
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-08-03
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-08-03
+
+    Merge pull request #2226 from nghttp2/bump-clang-format
+    
+    Bump clang format
+
+commit 80b5d9a131aceecb99c51be6658b7160b004e7cf
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-08-02
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-08-02
+
+    clang-format
+
+commit c2edfc700c0c9e4a2b265b9bf0796fd8aeaad87c
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-08-02
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-08-02
+
+    Bump clang-format to 18
+
+commit d9e846a2bd194f50e01773fc79acd7c7c36a293f
+Merge: 13086404 525830b8
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-07-26
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-07-26
+
+    Merge pull request #2224 from nghttp2/undef-no-ssize-t
+    
+    Undefine NGHTTP2_NO_SSIZE_T if BUILDING_NGHTTP2 is defined
+
+commit 525830b87a4cb332edf60635a1507d382c5f3680
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-07-26
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-07-26
+
+    Undefine NGHTTP2_NO_SSIZE_T if BUILDING_NGHTTP2 is defined
+
+commit 13086404f7430d81dcd00f0a4a2de458d31e91a0
+Merge: 98c06c4a 1e2ffd32
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-07-10
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-07-10
+
+    Merge pull request #2220 from nghttp2/dependabot/go_modules/golang.org/x/net-0.27.0
+    
+    build(deps): bump golang.org/x/net from 0.26.0 to 0.27.0
+
+commit 1e2ffd32e593cd078f689fc21a8bb0448e4787c8
+Author:     dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+AuthorDate: 2024-07-08
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-07-08
+
+    build(deps): bump golang.org/x/net from 0.26.0 to 0.27.0
+    
+    Bumps [golang.org/x/net](https://github.com/golang/net) from 0.26.0 to 0.27.0.
+    - [Commits](https://github.com/golang/net/compare/v0.26.0...v0.27.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: golang.org/x/net
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 98c06c4afe3aa5db3ffba721aee8de69b9148283
+Merge: 6308a04a 4cafc0ee
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-06-30
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-06-30
+
+    Merge pull request #2218 from nghttp2/fix-levenshtein-init
+    
+    Fix levenshtein initialization
+
+commit 4cafc0ee8a279c7e604492e30dd72af7083775c9
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-06-30
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-06-30
+
+    Fix levenshtein initialization
+
+commit 6308a04a47838572e584511e5ba7ccb3f466fa6d
+Merge: 91bdb19a 6ea0a900
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-06-29
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-06-29
+
+    Merge pull request #2217 from nghttp2/gha-suppress-warnings
+    
+    GHA: Suppress warnings
+
+commit 6ea0a9006e8ccf4d68b17abe3af9cac3ad3e1cc9
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-06-29
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-06-29
+
+    GHA: Suppress warnings
+
+commit 91bdb19a86d79b3a772c5c786ef01cb393642da1
+Merge: a1e3a91a 823db26d
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-06-29
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-06-29
+
+    Merge pull request #2216 from nghttp2/fix-udp-gro-cmsghdr-data-type
+    
+    Fix UDP_GRO struct cmsghdr data type
+
+commit 823db26d7c7fea23196a8a797742317b1a036963
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-06-29
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-06-29
+
+    Fix UDP_GRO struct cmsghdr data type
+
+commit a1e3a91a5a6f8b75294289331dd534ffa8ed030b
+Merge: ca345ff7 7c09767d
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-06-27
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-06-27
+
+    Merge pull request #2215 from nghttp2/fix-docker-android
+    
+    Fix Dockerfile.android build failure
+
+commit 7c09767d2dd2673d23e8071cbf97ac5d078a304d
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-06-27
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-06-27
+
+    Fix Dockerfile.android build failure
+
+commit ca345ff75013e30dee5cbef9c787341de24542e3
+Merge: e2e02f87 d9bbcf73
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-06-27
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-06-27
+
+    Merge pull request #2214 from nghttp2/disable-dependency-tracking
+    
+    Disable dependency tracking
+
+commit d9bbcf73aaf2452923eafd4e2cefd09e6c7a5181
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-06-27
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-06-27
+
+    Disable dependency tracking
+
+commit e2e02f874d5bb56591a80cd1f168a607b3de3a65
+Merge: 516b23d7 5d943031
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-06-25
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-06-25
+
+    Merge pull request #2213 from nghttp2/dependabot/go_modules/github.com/quic-go/quic-go-0.45.1
+    
+    build(deps): bump github.com/quic-go/quic-go from 0.45.0 to 0.45.1
+
+commit 5d943031401643c20047dbdb25e3a099eed90e57
+Author:     dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+AuthorDate: 2024-06-24
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-06-24
+
+    build(deps): bump github.com/quic-go/quic-go from 0.45.0 to 0.45.1
+    
+    Bumps [github.com/quic-go/quic-go](https://github.com/quic-go/quic-go) from 0.45.0 to 0.45.1.
+    - [Release notes](https://github.com/quic-go/quic-go/releases)
+    - [Changelog](https://github.com/quic-go/quic-go/blob/master/Changelog.md)
+    - [Commits](https://github.com/quic-go/quic-go/compare/v0.45.0...v0.45.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: github.com/quic-go/quic-go
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 516b23d72a21f18e80eed7099499430dd17c9fba
+Merge: 2f97d570 4d074418
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-06-22
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-06-22
+
+    Merge pull request #2211 from nghttp2/append-extra-opts
+    
+    Always append options to extra options
+
+commit 4d0744181c4590169624c5f8fcb32ec1fc3eca86
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-06-22
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-06-22
+
+    Always append options to extra options
+
+commit 2f97d5702c8c0ea6454f21bd2a192e00c5aa1e37
+Merge: 556b5a48 5cede566
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-06-22
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-06-22
+
+    Merge pull request #2210 from nghttp2/shallow-submodules
+    
+    Append --shallow-submodules to git clone --recursive
+
+commit 5cede5669031b7f386e3df43182ec26f9693dcb5
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-06-22
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-06-22
+
+    Append --shallow-submodules to git clone --recursive
+
+commit 556b5a4858bde2da20ef607fc844c464c18b5021
+Merge: 58ab46b5 9dcca481
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-06-19
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-06-19
+
+    Merge pull request #2209 from nghttp2/wolfssl
+    
+    Add wolfSSL support
+
+commit 9dcca48153af93decbd8ee487f10c4b9964d6ce0
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2023-12-23
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-06-19
+
+    Add wolfSSL support
+
+commit 58ab46b5610711e1a49bfe29792644759bd8a6c8
+Merge: fc3c21f1 91f0a005
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-06-18
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-06-18
+
+    Merge pull request #2208 from nghttp2/dependabot/github_actions/docker/build-push-action-6
+    
+    build(deps): bump docker/build-push-action from 5 to 6
+
+commit 91f0a005d68d5bf95a01b0361ee75741172ade7c
+Author:     dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+AuthorDate: 2024-06-17
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-06-17
+
+    build(deps): bump docker/build-push-action from 5 to 6
+    
+    Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 5 to 6.
+    - [Release notes](https://github.com/docker/build-push-action/releases)
+    - [Commits](https://github.com/docker/build-push-action/compare/v5...v6)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: docker/build-push-action
+      dependency-type: direct:production
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit fc3c21f1dc847f3414a901851046b4f43ea7eeb0
+Merge: 35a24555 ab83ec89
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-06-13
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-06-13
+
+    Merge pull request #2207 from nghttp2/bump-ngtcp2
+    
+    Bump ngtcp2 and its dependencies
+
+commit ab83ec893fb2ffafc4a5cd6e0a8de255e2eb7a73
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-06-13
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-06-13
+
+    Bump ngtcp2 and its dependencies
+
+commit 35a245554ba8df0941b7e8a940eb13ff15eed978
+Merge: 86b95271 63c2e86c
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-06-11
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-06-11
+
+    Merge pull request #2206 from nghttp2/dependabot/go_modules/github.com/quic-go/quic-go-0.45.0
+    
+    build(deps): bump github.com/quic-go/quic-go from 0.44.0 to 0.45.0
+
+commit 63c2e86c9d928def23880035a1d43818665974c8
+Author:     dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+AuthorDate: 2024-06-10
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-06-10
+
+    build(deps): bump github.com/quic-go/quic-go from 0.44.0 to 0.45.0
+    
+    Bumps [github.com/quic-go/quic-go](https://github.com/quic-go/quic-go) from 0.44.0 to 0.45.0.
+    - [Release notes](https://github.com/quic-go/quic-go/releases)
+    - [Changelog](https://github.com/quic-go/quic-go/blob/master/Changelog.md)
+    - [Commits](https://github.com/quic-go/quic-go/compare/v0.44.0...v0.45.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: github.com/quic-go/quic-go
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 86b95271094a58aaffc9beb8185cad264ccddd11
+Merge: 6e0923e1 8f44ca03
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-06-10
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-06-10
+
+    Merge pull request #2205 from nghttp2/dependabot/go_modules/golang.org/x/net-0.26.0
+    
+    build(deps): bump golang.org/x/net from 0.25.0 to 0.26.0
+
+commit 8f44ca03a37e8f7caa6937eb56cbe2ad949e95f4
+Author:     dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+AuthorDate: 2024-06-10
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-06-10
+
+    build(deps): bump golang.org/x/net from 0.25.0 to 0.26.0
+    
+    Bumps [golang.org/x/net](https://github.com/golang/net) from 0.25.0 to 0.26.0.
+    - [Commits](https://github.com/golang/net/compare/v0.25.0...v0.26.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: golang.org/x/net
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 6e0923e13ec78ae5f92a2431bdf120c92060aba9
+Merge: 5db776c7 e2232973
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-06-04
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-06-04
+
+    Merge pull request #2203 from ryandesign/patch-1
+    
+    Fix compiler versions in readme
+
+commit e2232973607c88a0221138c2f60e107d0eb87d99
+Author:     Ryan Carsten Schmidt <git@ryandesign.com>
+AuthorDate: 2024-06-03
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-06-03
+
+    Fix compiler versions in readme
+    
+    Fixes #2202
+
+commit 5db776c725ff4af951f5d4d1185a5b0250ccade9
+Merge: 85bd79aa d55d5cde
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-05-31
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-05-31
+
+    Merge pull request #2197 from nghttp2/dependabot/go_modules/github.com/quic-go/quic-go-0.44.0
+    
+    build(deps): bump github.com/quic-go/quic-go from 0.43.1 to 0.44.0
+
+commit 85bd79aa6479c72712c95de8de1ac81f182dc3af
+Merge: 239ff42f d9d26612
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-05-31
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-05-31
+
+    Merge pull request #2200 from ThomasDevoogdt/bugfix/lib-c-only
+    
+    CMakeLists.txt: allow to compile the C only lib without CXX compiler
+
+commit d9d266124c9f851bab7927321da6637d930367e2
+Author:     Thomas Devoogdt <thomas@devoogdt.com>
+AuthorDate: 2024-05-30
+Commit:     Thomas Devoogdt <thomas@devoogdt.com>
+CommitDate: 2024-05-30
+
+    CMakeLists.txt: allow to compile the C only lib without CXX compiler
+    
+    See http://autobuild.buildroot.net/results/88a584a5c5ef725c8299044b0f3d1730fe4f7f67/build-end.log.
+    
+    Signed-off-by: Thomas Devoogdt <thomas@devoogdt.com>
+
+commit d55d5cde0ddbc805aad0190e17d4226dc639436b
+Author:     dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+AuthorDate: 2024-05-20
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-05-20
+
+    build(deps): bump github.com/quic-go/quic-go from 0.43.1 to 0.44.0
+    
+    Bumps [github.com/quic-go/quic-go](https://github.com/quic-go/quic-go) from 0.43.1 to 0.44.0.
+    - [Release notes](https://github.com/quic-go/quic-go/releases)
+    - [Changelog](https://github.com/quic-go/quic-go/blob/master/Changelog.md)
+    - [Commits](https://github.com/quic-go/quic-go/compare/v0.43.1...v0.44.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: github.com/quic-go/quic-go
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 239ff42fd88887806118fe9ab8c505a9c8b9c654
+Merge: 20d21b21 e28c2d3d
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-05-19
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-05-19
+
+    Merge pull request #2196 from nghttp2/nghttpx-fix-quic-read
+    
+    nghttpx: Fix batch UDP QUIC packet dropped on GRO read
+
+commit e28c2d3d4347b32b84f19f357c12b5b337fb5657
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-05-19
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-05-19
+
+    nghttpx: Fix batch UDP QUIC packet dropped on GRO read
+
+commit 20d21b21aeb2682957c08b9fbd1c01277b23d79d
+Merge: 40c54a66 076d3bdc
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-05-13
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-05-13
+
+    Merge pull request #2193 from nghttp2/dependabot/go_modules/golang.org/x/net-0.25.0
+    
+    build(deps): bump golang.org/x/net from 0.24.0 to 0.25.0
+
+commit 076d3bdc74e6b3941181919f4039e203857fc5c5
+Author:     dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+AuthorDate: 2024-05-13
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-05-13
+
+    build(deps): bump golang.org/x/net from 0.24.0 to 0.25.0
+    
+    Bumps [golang.org/x/net](https://github.com/golang/net) from 0.24.0 to 0.25.0.
+    - [Commits](https://github.com/golang/net/compare/v0.24.0...v0.25.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: golang.org/x/net
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 40c54a66e0c9d554a58e9d6b598b5ca0e50c3abf
+Merge: dddb904e c767d8a4
+Author:     Tatsuhiro Tsujikawa <404610+tatsuhiro-t@users.noreply.github.com>
+AuthorDate: 2024-05-13
+Commit:     GitHub <noreply@github.com>
+CommitDate: 2024-05-13
+
+    Merge pull request #2191 from nghttp2/bump-libbpf
+    
+    Bump libbpf to v1.4.2
+
+commit c767d8a44c5c52b40d9ab72c084a6576f38df809
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-05-13
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-05-13
+
+    Bump libbpf to v1.4.2
+
+commit dddb904e2112b9d7868ad2265a9283fae8e451dc
+Author:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+AuthorDate: 2024-05-13
+Commit:     Tatsuhiro Tsujikawa <tatsuhiro.t@gmail.com>
+CommitDate: 2024-05-13
+
+    Bump package version
